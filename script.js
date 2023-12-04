@@ -26,3 +26,5 @@ function prevSlide() {
 
 next.addEventListener('click', nextSlide);
 prev.addEventListener('click', prevSlide);
+
+
